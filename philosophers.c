@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   philosophers.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: muturk <muturk@student.42.fr>              +#+  +:+       +#+        */
+/*   By: ogunesog <ogunesog@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/21 03:32:07 by ogunesog          #+#    #+#             */
-/*   Updated: 2025/04/21 06:20:07 by muturk           ###   ########.fr       */
+/*   Updated: 2025/04/21 06:21:10 by ogunesog         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -149,3 +149,5 @@ adress ==== bu uygun;
 
 
 	i
+
+	ozan ekleme
