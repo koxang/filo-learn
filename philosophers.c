@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   philosophers.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ogunesog <ogunesog@student.42.fr>          +#+  +:+       +#+        */
+/*   By: muturk <muturk@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/21 03:32:07 by ogunesog          #+#    #+#             */
-/*   Updated: 2025/04/21 05:56:28 by ogunesog         ###   ########.fr       */
+/*   Updated: 2025/04/21 06:20:07 by muturk           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -143,4 +143,9 @@ adress ==== bu uygun;
 		ft_pthread_eat
 		waiter();
 	}
-	if 
+	if
+
+
+
+
+	i
